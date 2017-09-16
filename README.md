@@ -1,6 +1,8 @@
 # rterror
 
+[![GoDoc](http://img.shields.io/badge/go-documentation-blue.svg?style=flat-square)](http://godoc.org/github.com/suzuki-shunsuke/rterror)
 [![Build Status](https://travis-ci.org/suzuki-shunsuke/rterror.svg?branch=master)](https://travis-ci.org/suzuki-shunsuke/rterror)
+[![License](http://img.shields.io/badge/license-mit-blue.svg?style=flat-square)](https://raw.githubusercontent.com/suzuki-shunsuke/rterror/master/LICENSE)
 
 golang package to handle runtime error
 
