@@ -1,0 +1,13 @@
+{
+  "version": "1.0.0",
+  "scripts": {
+    "release": "standard-version",
+    "commitmsg": "validate-commit-msg",
+    "test": "go test *_test.go"
+  },
+  "devDependencies": {
+    "husky": "^0.14.3",
+    "standard-version": "^4.2.0",
+    "validate-commit-msg": "^2.14.0"
+  }
+}
