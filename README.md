@@ -1,5 +1,7 @@
 # rterror
 
+[![Build Status](https://travis-ci.org/suzuki-shunsuke/rterror.svg?branch=master)](https://travis-ci.org/suzuki-shunsuke/rterror)
+
 golang package to handle runtime error
 
 ## Install
